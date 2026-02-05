@@ -1,0 +1,17 @@
+INVOICE PROCESSING GUIDELINES
+
+An invoice should contain:
+
+- Supplier name and address
+- Invoice number and date
+- Amount due and currency
+- VAT amount and VAT number if applicable
+- Purchase Order reference if required
+- Bank details (not editable without verification)
+
+Processing Rules:
+
+- Invoice must be recorded in the system before payment.
+- Three-way match is required when PO and goods receipt exist.
+- Exceptions must be routed to the appropriate workflow.
+- Every action taken must be logged for audit purposes.

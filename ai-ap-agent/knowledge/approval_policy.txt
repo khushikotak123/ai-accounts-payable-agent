@@ -1,0 +1,18 @@
+ACCOUNTS PAYABLE APPROVAL POLICY
+
+1. Invoice Approval Thresholds
+- Invoices up to £1,000 can be auto-approved by the system.
+- Invoices between £1,000 and £10,000 require Manager approval.
+- Invoices above £10,000 require CFO approval.
+
+2. Missing Purchase Order (Non-PO Invoice)
+- Any invoice received without a valid PO must be escalated.
+- The requester must confirm the business purpose before payment.
+
+3. Urgent Payments
+- If an invoice is due within 48 hours, the system must notify the approver.
+- Escalation is required if no response within SLA.
+
+4. Segregation of Duties
+- The same entity must not both approve and release payment.
+- Payment execution must happen only after approval is logged.

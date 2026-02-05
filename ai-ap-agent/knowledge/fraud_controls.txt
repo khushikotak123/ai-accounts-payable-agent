@@ -1,0 +1,17 @@
+FRAUD AND RISK CONTROLS FOR ACCOUNTS PAYABLE
+
+1. Vendor Bank Detail Changes
+- Requests to change bank account details are high fraud risk.
+- Such changes must always require manual human verification.
+- The system must never auto-approve bank detail updates.
+
+2. Duplicate Invoice Risk
+- Duplicate invoices often indicate error or fraud.
+- Any invoice with the same vendor, invoice number, and amount must be rejected.
+
+3. High Value Payments
+- High value invoices above £10,000 require CFO approval.
+- Additional checks must be applied for new vendors.
+
+4. Suspicious Patterns
+- Urgent payment pressure, unusual accounts, or mismatched supplier emails must be escalated.

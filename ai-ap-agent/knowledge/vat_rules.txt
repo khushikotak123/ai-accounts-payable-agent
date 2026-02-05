@@ -1,0 +1,17 @@
+UK VAT VALIDATION RULES
+
+1. VAT Number Requirement
+- UK suppliers charging VAT must provide a valid VAT registration number.
+- Invoices missing VAT numbers must be flagged.
+
+2. VAT Calculation Check
+- Standard VAT rate is 20 percent unless specified otherwise.
+- VAT amount must match line item totals.
+
+3. Zero Rated or Exempt Items
+- Some goods and services may be VAT exempt or zero-rated.
+- Such invoices must include the correct VAT code.
+
+4. Compliance Failure Action
+- If VAT validation fails, the invoice must not be paid.
+- The supplier must be contacted for a corrected invoice.
